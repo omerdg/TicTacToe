@@ -1,2 +1,2 @@
-# TicTacToe
-TicTacToe game created via .NEt Windows Forms.
+# Tic Tac Toe
+TicTacToe game created via .Net Windows Forms.
